@@ -3,9 +3,9 @@
 
 
 - 🔭 I’m currently working on Flutter and Go
-- 🌱 I’m currently learning Docker and Deployment Solutions
+- 🌱 I’m currently learning Android
 - 👯 I’m looking to collaborate on Flutter and Golang projects. Also, if you want a UI/UX guy, hmu
-- 🤔 I’m looking for help with Kotlin and ML resources 😭
+- 🤔 I’m looking for help with DSA (ugh)
 - 💬 Ask me about anything from UI/UX to Flutter Apps 💪
 - 📫 How to reach me:
 
