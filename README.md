@@ -15,4 +15,4 @@
 
 ___
 
-![https://github.com/BRO3886](https://github-readme-stats.vercel.app/api?username=BRO3886&show_icons=true&theme=light&count_private=true)
+[![Siddharhta's github stats](https://github-readme-stats.vercel.app/api?username=BRO3886)](https://github.com/anuraghazra/github-readme-stats)
