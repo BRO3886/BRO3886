@@ -2,9 +2,9 @@
 
 I'm a software dev from Delhi, India. 🇮🇳
 
-I'm currently pursuing a Bachelors degree in Computer Science and Engineering from VIT Vellore. 🏫
+I'm pursuing a Bachelors degree in Computer Science and Engineering from VIT Vellore, batch of '22. 🏫
 
-I'm currently a maintainer at @GDGVIT. Also making an app for @Nearcast. Previously an intern at @winuall @oyorooms. 🌎
+I'm currently a maintainer at [@GDGVIT](https://dscv.it/g). Also making an app for @Nearcast. Previously an intern at @winuall @oyorooms. 🌎
 
 I have a keen interest in solving real-life problems with code. I like learning about every aspect of a product. From design to development to marketing. I like to build things with Flutter, Go, React, and Node. I know a bit of Django too. 🚀
 
