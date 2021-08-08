@@ -6,7 +6,7 @@ I'm pursuing a Bachelors degree in Computer Science and Engineering from VIT Vel
 
 I'm currently a maintainer and app lead at [@GDGVIT](https://dscv.it/g). Previously [@winuall](https://winuall.com) [@oyorooms](https://oyorooms.com). 🌎
 
-I have a keen interest in solving real-life problems with code. I like learning about every aspect of a product. From design to development to marketing. I like to build things with Flutter, Go, React, and Node. I know a bit of Django too. 🚀
+I have a keen interest in solving real-life problems with code. I like learning about every aspect of a product. From design to development to marketing. I like to build things with Flutter, Go, React, and Node. I know a bit of Kotlin and android dev too. 🚀
 
 ### Goals for 2021 🤓
 * [ ] Learning Kotlin & Android
