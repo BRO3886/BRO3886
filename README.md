@@ -9,10 +9,10 @@ I'm currently a maintainer and app lead at [@GDGVIT](https://dscv.it/g). Previou
 I have a keen interest in solving real-life problems with code. I like learning about every aspect of a product. From design to development to marketing. I like to build things with Flutter, Go, React, and Node. I know a bit of Kotlin and android dev too. 🚀
 
 ### Goals for 2021 🤓
-* [ ] Learning Kotlin & Android
+* [x] Learning Kotlin & Android
 * [ ] DevOps
-* [ ] DSA basics for uni
-* [ ] Read and write more!
+* [x] DSA basics for uni
+* [x] Read and write more!
 
 ### Socials 📫 
 
