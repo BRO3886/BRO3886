@@ -4,7 +4,7 @@ I'm a software dev from Delhi, India. 🇮🇳
 
 I'm pursuing a Bachelors degree in Computer Science and Engineering from VIT Vellore, batch of '22. 🏫
 
-Currently an intern @groww, and maintainer and app lead at [@GDGVIT](https://dscv.it/g). 
+Currently an intern [@groww](https://github.com/Groww), and maintainer and app lead at [@GDGVIT](https://dscv.it/g). 
 
 Previously [@nearcast](https://nearcast.com) [@winuall](https://winuall.com) [@oyorooms](https://oyorooms.com). 🌎
 
