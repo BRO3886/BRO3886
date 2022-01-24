@@ -10,9 +10,4 @@ Previously [@nearcast](https://nearcast.com) [@winuall](https://winuall.com) [@o
 
 I have a keen interest in solving real-life problems with code. I like learning about every aspect of a product. From design to development to marketing. I like to build things with Flutter, Go, React. Learning jetpack compose whenever I get time 🚀
 
-### Socials 📫 
-
-[![Twitter Badge](https://img.shields.io/badge/-@sidv_22-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sidv_22)](https://twitter.com/sidv_22) 
-[![Instagram_Badge](https://img.shields.io/badge/-@sidv_22-fafafa?style=flat-square&logo=Instagram&logoColor=white&color=black&link=https://www.instagram.com/sidv_22/)](https://instagram.com/sidv_22)
-[![Linkedin Badge](https://img.shields.io/badge/-Siddhartha%20Varma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/siddharthav22/)](https://www.linkedin.com/in/siddharthav22/)
-[![Wesbite](https://img.shields.io/badge/-My%20Website-green?style=flat-square&logo=Web&logoColor=white&link=https://sidv.dev)](https://sidv.dev)
+<sub>[website](https://sidv.dev/) &nbsp; • &nbsp; [twitter](https://twitter.com/sidv_22) &nbsp; • &nbsp; [linkedin](https://www.linkedin.com/in/siddharthav22/) &nbsp; • &nbsp; [email](mailto:sidverma1999@gmail.com) &nbsp;• &nbsp; [telegram](https://t.me/vaerma)</sub>
