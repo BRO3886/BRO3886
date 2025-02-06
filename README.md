@@ -2,7 +2,7 @@
 
 I'm a software dev from Delhi, India 🇮🇳
 
-Currently on a break 🍫 
+Open to Backend Engineering roles 🛠️
 
 Previously [@zomato](https://github.com/Zomato), [@groww](https://github.com/Groww) 🌎
 
