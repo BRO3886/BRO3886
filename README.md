@@ -13,8 +13,8 @@ i build reliable systems and clean human interfaces. mostly write go, sometimes 
 
 #### writing
 
-- [Software Engineering In The Agentic Era](https://sidv.dev/blog/software-engineering-in-the-agentic-era)
-- [Green Tea GC: How Go Stopped Wasting 35% of Your CPU Cycles](https://sidv.dev/blog/green-tea-gc)
-- [A Deep Dive into Dynamo's Architecture and Scale](https://sidv.dev/blog/dynamo-deep-dive)
+- [Software Engineering In The Agentic Era](https://sidv.dev/blog/software-engineering-agentic-era/)
+- [Green Tea GC: How Go Stopped Wasting 35% of Your CPU Cycles](https://sidv.dev/blog/green-tea-gc-how-go-cut-memory-waste/)
+- [A Deep Dive into Dynamo's Architecture and Scale](https://sidv.dev/blog/dynamodb-architecture/)
 
 <sub>[sidv.dev](https://sidv.dev/) &nbsp;·&nbsp; [twitter](https://twitter.com/sidposting) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/siddharthav22/) &nbsp;·&nbsp; [telegram](https://t.me/vaerma)</sub>
