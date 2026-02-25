@@ -6,10 +6,12 @@ i build reliable systems and clean human interfaces. mostly write go, sometimes 
 
 #### recent work
 
-- **[go-eventkit](https://github.com/BRO3886/go-eventkit)** — native macOS Calendar & Reminders bindings for Go (3000x faster than AppleScript)
-- **[gtasks](https://github.com/BRO3886/gtasks)** — CLI client for Google Tasks `133 ★`
-- **[ical](https://github.com/BRO3886/ical)** / **[rem](https://github.com/BRO3886/rem)** — fast, native macOS Calendar & Reminders CLIs
-- **[healthsync](https://github.com/BRO3886/healthsync)** — Apple Health data on your terminal
+- **[go-eventkit](https://github.com/BRO3886/go-eventkit)** — native macOS Calendar & Reminders bindings for Go (3000x faster than AppleScript) `7 ★`
+- **[gtasks](https://github.com/BRO3886/gtasks)** — CLI client for Google Tasks `134 ★`
+- **[ical](https://github.com/BRO3886/ical)** / **[rem](https://github.com/BRO3886/rem)** — fast, native macOS Calendar & Reminders CLIs `15 ★` each
+- **[healthsync](https://github.com/BRO3886/healthsync)** — Apple Health data on your terminal `4 ★`
+- **[go-docpdf](https://github.com/BRO3886/go-docpdf)** — lightweight HTTP service to convert .docx → PDF, built for feeding docs into LLMs
+- **[mcp-memory-custom](https://github.com/BRO3886/mcp-memory-custom)** — MCP memory server with custom memory location `4 ★`
 
 #### writing
 
