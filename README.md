@@ -4,14 +4,19 @@ senior software engineer [@feeble](https://github.com/feebleai). previously [@zo
 
 i build reliable systems and clean human interfaces. mostly write go, sometimes typescript. i like building tools i actually use — CLIs for my calendar, reminders, health data, and tasks. if i use it daily, i'll probably rewrite it in go.
 
-#### recent work
+#### products
 
-- **[gtasks](https://github.com/BRO3886/gtasks)** — CLI client for Google Tasks `137 ★`
-- **[healthsync](https://github.com/BRO3886/healthsync)** — Apple Health data on your terminal `45 ★`
-- **[rem](https://github.com/BRO3886/rem)** / **[ical](https://github.com/BRO3886/ical)** — fast, native macOS Reminders & Calendar CLIs `35 ★` `31 ★`
-- **[go-eventkit](https://github.com/BRO3886/go-eventkit)** — native macOS Calendar & Reminders bindings for Go (3000x faster than AppleScript) `11 ★`
+- **[romp](https://romp.sidv.dev/)** / **[github](https://github.com/BRO3886/romp)** — label an issue. get a pull request.
+- **[katagami](https://katagami.dev/)** / **[github](https://github.com/BRO3886/katagami)** — self-hosted, schema-validated Typst PDF rendering API.
+
+#### open source
+
+- **[gtasks](https://github.com/BRO3886/gtasks)** — CLI client for Google Tasks `171 ★`
+- **[healthsync](https://github.com/BRO3886/healthsync)** — Apple Health data on your terminal `71 ★`
+- **[rem](https://github.com/BRO3886/rem)** / **[ical](https://github.com/BRO3886/ical)** — fast, native macOS Reminders & Calendar CLIs `154 ★` `86 ★`
+- **[go-eventkit](https://github.com/BRO3886/go-eventkit)** — native macOS Calendar & Reminders bindings for Go (3000x faster than AppleScript) `21 ★`
 - **[mcp-memory-custom](https://github.com/BRO3886/mcp-memory-custom)** — MCP memory server with custom memory location `4 ★`
-- **[go-docpdf](https://github.com/BRO3886/go-docpdf)** — lightweight HTTP service to convert .docx → PDF, built for feeding docs into LLMs `3 ★`
+- **[go-docpdf](https://github.com/BRO3886/go-docpdf)** — lightweight HTTP service to convert .docx → PDF, built for feeding docs into LLMs `4 ★`
 
 #### writing
 
