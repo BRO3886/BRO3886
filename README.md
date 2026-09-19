@@ -23,4 +23,6 @@ I build reliable systems and clean human interfaces. Mostly write Go, sometimes 
 - [Green Tea GC: How Go Stopped Wasting 35% of Your CPU Cycles](https://sidv.dev/blog/green-tea-gc-how-go-cut-memory-waste/)
 - [A Deep Dive into Dynamo's Architecture and Scale](https://sidv.dev/blog/dynamodb-architecture/)
 
+<a href="https://www.buymeacoffee.com/siddharthav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px !important;width: 217px !important;"></a>
+
 <sub>[Sidv.dev](https://sidv.dev/) &nbsp;·&nbsp; [Twitter](https://twitter.com/sidposting) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/siddharthav22/) &nbsp;·&nbsp; [Telegram](https://t.me/vaerma)</sub>
