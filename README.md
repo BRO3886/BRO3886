@@ -6,17 +6,16 @@ i build reliable systems and clean human interfaces. mostly write go, sometimes 
 
 #### products
 
-- **[romp](https://romp.sidv.dev/)** / **[github](https://github.com/BRO3886/romp)** — label an issue. get a pull request.
-- **[katagami](https://katagami.dev/)** / **[github](https://github.com/BRO3886/katagami)** — self-hosted, schema-validated Typst PDF rendering API.
+- currently building **[romp](https://romp.sidv.dev/)** / **[github](https://github.com/BRO3886/romp)** — label an issue. get a pull request.
+- currently building **[katagami](https://katagami.dev/)** — self-hosted, schema-validated Typst PDF rendering API.
 
 #### open source
 
 - **[gtasks](https://github.com/BRO3886/gtasks)** — CLI client for Google Tasks `171 ★`
+- **[rem](https://github.com/BRO3886/rem)** — fast, native macOS Reminders CLI `154 ★`
+- **[ical](https://github.com/BRO3886/ical)** — fast, native macOS Calendar CLI `86 ★`
 - **[healthsync](https://github.com/BRO3886/healthsync)** — Apple Health data on your terminal `71 ★`
-- **[rem](https://github.com/BRO3886/rem)** / **[ical](https://github.com/BRO3886/ical)** — fast, native macOS Reminders & Calendar CLIs `154 ★` `86 ★`
 - **[go-eventkit](https://github.com/BRO3886/go-eventkit)** — native macOS Calendar & Reminders bindings for Go (3000x faster than AppleScript) `21 ★`
-- **[mcp-memory-custom](https://github.com/BRO3886/mcp-memory-custom)** — MCP memory server with custom memory location `4 ★`
-- **[go-docpdf](https://github.com/BRO3886/go-docpdf)** — lightweight HTTP service to convert .docx → PDF, built for feeding docs into LLMs `4 ★`
 
 #### writing
 
