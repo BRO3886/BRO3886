@@ -6,16 +6,16 @@ I build reliable systems and clean human interfaces. Mostly write Go, sometimes 
 
 #### Currently building
 
-- **[Romp](https://romp.sidv.dev/)** / **[GitHub](https://github.com/BRO3886/romp)** — Label an issue. Get a pull request.
+- **[romp](https://romp.sidv.dev/)** / **[GitHub](https://github.com/BRO3886/romp)** — Label an issue. Get a pull request.
 - **[Katagami](https://katagami.dev/)** — Self-hosted, schema-validated Typst PDF rendering API.
 
 #### Open source
 
-- **[Gtasks](https://github.com/BRO3886/gtasks)** — CLI client for Google Tasks `171 ★`
-- **[Rem](https://github.com/BRO3886/rem)** — Fast, native macOS Reminders CLI `154 ★`
-- **[Ical](https://github.com/BRO3886/ical)** — Fast, native macOS Calendar CLI `86 ★`
-- **[Healthsync](https://github.com/BRO3886/healthsync)** — Apple Health data on your terminal `71 ★`
-- **[Go-eventkit](https://github.com/BRO3886/go-eventkit)** — Native macOS Calendar & Reminders bindings for Go (3000x faster than AppleScript) `21 ★`
+- **[gtasks](https://github.com/BRO3886/gtasks)** — CLI client for Google Tasks `171 ★`
+- **[rem](https://github.com/BRO3886/rem)** — Fast, native macOS Reminders CLI `154 ★`
+- **[ical](https://github.com/BRO3886/ical)** — Fast, native macOS Calendar CLI `86 ★`
+- **[healthsync](https://github.com/BRO3886/healthsync)** — Apple Health data on your terminal `71 ★`
+- **[go-eventkit](https://github.com/BRO3886/go-eventkit)** — Native macOS Calendar & Reminders bindings for Go (3000x faster than AppleScript) `21 ★`
 
 #### Writing
 
